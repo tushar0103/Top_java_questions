@@ -3,7 +3,7 @@ public class duplicate {
         int[] arr = { 1, 1, 1, 2, 2, 2, 3 };
         dup(arr);
     }
-
+          
     public static void dup(int[] arr) {
         Arrays.sort(arr);    
         for (int i = 0; i < arr.length - 1; i++) {
