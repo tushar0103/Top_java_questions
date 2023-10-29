@@ -14,7 +14,7 @@ public class duplicate {
                 else
 
                     break;
-
+  
             }
             System.out.println(arr[i] + " " + count);
             i += (count - 1);
